@@ -14,3 +14,6 @@ How to create a mySQL Schema from W3Schools:
 
 How to use DROP TABLES IF NOT EXIST:
 https://stackoverflow.com/questions/20155989/if-table-exists-drop-table-then-create-it-if-it-does-not-exist-just-create-it/20156024
+
+Execute your schema file (and the database will be created) from the command line by typing:
+-- mysql -u root -p < server/db/schema.sql
