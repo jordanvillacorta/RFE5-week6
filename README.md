@@ -17,3 +17,6 @@ https://stackoverflow.com/questions/20155989/if-table-exists-drop-table-then-cre
 
 Execute your schema file (and the database will be created) from the command line by typing:
 -- mysql -u root -p < server/db/schema.sql
+
+Excellent resource for connecting and querying mySQL with JS:
+-- https://www.sitepoint.com/using-node-mysql-javascript-client/
